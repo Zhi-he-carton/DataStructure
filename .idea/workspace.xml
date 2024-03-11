@@ -5,8 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddf481a6-8b13-4a6c-90ba-f6200b5bffc9" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ApplicationExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/DesignExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/CircleLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/DebugCircleLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/DebugDuLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/DebugLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/DebugLinkList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/DebugSqList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/DuLNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/DuLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/Example2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/Example2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/Example2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/Example2_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/Example2_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/IList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/LinkList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/Polyn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/PolynList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/PolynNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/SX1_SqList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/SqList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/StudentManagSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/StudentNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/实验一实验报告.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/w2Exp1/ComfirmExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w2Exp1/ConfirmExp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/信管实验要求.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +56,6 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -50,6 +78,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2d4X6wzeG8qpDDFVWv4iof5KLhA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -64,10 +95,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Zhi_he_carton/iCloudDrive/Documents/Object-going/DataStructure/src/w2Exp1&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -76,7 +110,11 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Zhi_he_carton\iCloudDrive\Documents\Object-going\DataStructure\src\w2Exp1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Zhi_he_carton\iCloudDrive\Documents\Object-going\DataStructure\src\w2Exp1" />
       <recent name="C:\Users\Zhi_he_carton\iCloudDrive\Documents\Object-going\DataStructure\src" />
     </key>
   </component>
@@ -108,6 +146,9 @@
       <workItem from="1709268155412" duration="1361000" />
       <workItem from="1709379673062" duration="18836000" />
       <workItem from="1709817109366" duration="1157000" />
+      <workItem from="1709906812069" duration="10614000" />
+      <workItem from="1709957412261" duration="1931000" />
+      <workItem from="1710000826438" duration="16999000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -173,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709441943101</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="test">
+      <option name="closed" value="true" />
+      <created>1709826184352</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709826184352</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
