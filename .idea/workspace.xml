@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ddf481a6-8b13-4a6c-90ba-f6200b5bffc9" name="Changes" comment="3/11 实验一顺序表">
+      <change afterPath="$PROJECT_DIR$/.idea/DataStructure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/CircleLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/DebugCircleLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/DebugDuLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/DebugLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/DebugLinkList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/DebugSqList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/DuLNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/DuLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/Example2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/Example2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/Example2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/Example2_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/Example2_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/IList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/LinkList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/Polyn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/PolynList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/PolynNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/SX1_SqList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/SqList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/StudentManagSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/StudentNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/CircleSqQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/CircleSqQueue2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/CircleSqQueue3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/DebugCircleSqQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/DebugCircleSqQueue2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/DebugLinkQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/DebugLinkQueue2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/DebugLinkStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/DebugSqStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/Example3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/Example3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/Example3_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/Example3_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/Example3_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/Example3_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/Example3_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/IQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/IStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/LinkQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/LinkQueue2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/LinkStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/PriorityQData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/PriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/SqStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step1/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step1/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w1c2/lsr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w1c2/lsr2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ApplicationExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ConfirmExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/DesignExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/CircleLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/DebugCircleLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/DebugDuLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/DebugLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/DebugLinkList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/DebugSqList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/DuLNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/DuLinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/Example2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/Example2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/Example2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/Example2_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/Example2_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/IList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/LinkList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/Polyn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/PolynList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/PolynNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/SX1_SqList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/SqList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/StudentManagSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/StudentNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w2Exp1/实验一实验报告.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3Exp1/ApplicationExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3Exp1/ApplicationExp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3Exp1/ConfirmExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3Exp1/DesignExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3Exp1/DesignExp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w3Exp1/实验二实验报告.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w4Exp1/ApplictaionExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w4Exp1/ConfirmExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w4Exp1/DesignExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w4Exp1/实验三实验报告.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Zhi-he-carton&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b344b218-56aa-4771-a32c-bca306b1336e" />
+        <option name="url" value="https://github.com/Zhi-he-carton/DataStructure.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2d4X6wzeG8qpDDFVWv4iof5KLhA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Zhi_he_carton/iCloudDrive/Documents/Object-going/DataStructure/src/w4Exp1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.23206751&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Zhi_he_carton\iCloudDrive\Documents\Object-going\DataStructure\src\w4Exp1" />
+      <recent name="C:\Users\Zhi_he_carton\iCloudDrive\Documents\Object-going\DataStructure\src\w3Exp1" />
+      <recent name="C:\Users\Zhi_he_carton\iCloudDrive\Documents\Object-going\DataStructure\src\w2Exp1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Zhi_he_carton\iCloudDrive\Documents\Object-going\DataStructure\src\w2Exp1" />
+      <recent name="C:\Users\Zhi_he_carton\iCloudDrive\Documents\Object-going\DataStructure\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DesignExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="w3Exp1.DesignExp" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="w3Exp1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lsr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="w1c2.lsr" />
+      <module name="DataStructure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DesignExp" />
+        <item itemvalue="Application.lsr" />
+        <item itemvalue="Application.lsr" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddf481a6-8b13-4a6c-90ba-f6200b5bffc9" name="Changes" comment="" />
+      <created>1709268153678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709268153678</updated>
+      <workItem from="1709268155412" duration="1361000" />
+      <workItem from="1709379673062" duration="18836000" />
+      <workItem from="1709817109366" duration="1157000" />
+      <workItem from="1709906812069" duration="10614000" />
+      <workItem from="1709957412261" duration="1931000" />
+      <workItem from="1710000826438" duration="16999000" />
+      <workItem from="1710120277751" duration="182000" />
+      <workItem from="1710120474098" duration="2578000" />
+      <workItem from="1710231736629" duration="8567000" />
+      <workItem from="1710379531324" duration="7312000" />
+      <workItem from="1710400419688" duration="647000" />
+      <workItem from="1710570130943" duration="25161000" />
+      <workItem from="1710722500910" duration="8892000" />
+      <workItem from="1710749595254" duration="294000" />
+      <workItem from="1710750443450" duration="441000" />
+      <workItem from="1710750897161" duration="905000" />
+      <workItem from="1710751819232" duration="304000" />
+      <workItem from="1710752333091" duration="3828000" />
+      <workItem from="1710772671930" duration="7986000" />
+      <workItem from="1710836233922" duration="5463000" />
+      <workItem from="1710847212239" duration="6885000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <option name="closed" value="true" />
+      <created>1709268589313</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709268589313</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <option name="closed" value="true" />
+      <created>1709268851552</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709268851552</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <option name="closed" value="true" />
+      <created>1709441515507</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709441515507</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <option name="closed" value="true" />
+      <created>1709441582747</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709441582747</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test">
+      <option name="closed" value="true" />
+      <created>1709441629809</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709441629809</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test">
+      <option name="closed" value="true" />
+      <created>1709441688292</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709441688292</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test">
+      <option name="closed" value="true" />
+      <created>1709441746987</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709441746987</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test">
+      <option name="closed" value="true" />
+      <created>1709441943101</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709441943101</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test">
+      <option name="closed" value="true" />
+      <created>1709826184352</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709826184352</updated>
+    </task>
+    <task id="LOCAL-00010" summary="3/11 实验一顺序表">
+      <option name="closed" value="true" />
+      <created>1710120333556</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710120333556</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="w1c2" />
+    <MESSAGE value="Loop shift right" />
+    <MESSAGE value="test" />
+    <MESSAGE value="3/11 实验一顺序表" />
+    <option name="LAST_COMMIT_MESSAGE" value="3/11 实验一顺序表" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NegativeArraySizeException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="ch02.Node" memberName="data" />
+        <PinnedItemInfo parentTag="w3Exp1.ch02.DuLinkList" memberName="head" />
+        <PinnedItemInfo parentTag="w3Exp1.ch02.Node" memberName="next" />
+        <PinnedItemInfo parentTag="w3Exp1.ch02.DuLNode" memberName="prior" />
+        <PinnedItemInfo parentTag="w4Exp1.StackElem" memberName="n" />
+        <PinnedItemInfo parentTag="ch03.LinkStack" memberName="top" />
+        <PinnedItemInfo parentTag="w3Exp1.ch02.DuLNode" memberName="next" />
+        <PinnedItemInfo parentTag="ch02.Node" memberName="next" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="Lstack" />
+        <watch expression="temp" />
+        <watch expression="temp" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
