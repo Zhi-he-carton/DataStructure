@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddf481a6-8b13-4a6c-90ba-f6200b5bffc9" name="Changes" comment="3/11 实验一顺序表">
-      <change afterPath="$PROJECT_DIR$/src/w4Exp1/ApplicationExp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w4Exp1/StackElem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w4Exp1/StackElem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/w4Exp1/ApplictaionExp.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +90,7 @@
       <recent name="C:\Users\Zhi_he_carton\iCloudDrive\Documents\Object-going\DataStructure\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.DesignExp">
     <configuration name="DesignExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="w3Exp1.DesignExp" />
       <module name="DataStructure" />
