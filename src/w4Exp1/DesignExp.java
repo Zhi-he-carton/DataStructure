@@ -2,6 +2,8 @@ package w4Exp1;
 
 import ch03.LinkStack;
 
+import java.util.Scanner;
+
 
 class StackElem {
     public int m;
@@ -49,6 +51,7 @@ public class DesignExp {
         return i;
     }
     public static void main(String[] args) {
-        System.out.println(Ackerman(3,8));
+        Scanner sc = new Scanner(System.in);
+        System.out.println(Ackerman(sc.nextInt(), sc.nextInt()));
     }
 }

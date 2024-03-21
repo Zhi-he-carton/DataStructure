@@ -5,103 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddf481a6-8b13-4a6c-90ba-f6200b5bffc9" name="Changes" comment="3/11 实验一顺序表">
-      <change afterPath="$PROJECT_DIR$/.idea/DataStructure.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/CircleLinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/DebugCircleLinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/DebugDuLinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/DebugLinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/DebugLinkList2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/DebugSqList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/DuLNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/DuLinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/Example2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/Example2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/Example2_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/Example2_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/Example2_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/IList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/LinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/LinkList2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/Polyn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/PolynList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/PolynNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/SX1_SqList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/SqList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/StudentManagSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch02/StudentNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/CircleSqQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/CircleSqQueue2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/CircleSqQueue3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/DebugCircleSqQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/DebugCircleSqQueue2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/DebugLinkQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/DebugLinkQueue2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/DebugLinkStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/DebugSqStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/Example3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/Example3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/Example3_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/Example3_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/Example3_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/Example3_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/Example3_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/IQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/IStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/LinkQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/LinkQueue2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/LinkStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/PriorityQData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/PriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch03/SqStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step1/MyArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step1/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w1c2/lsr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w1c2/lsr2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ApplicationExp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ConfirmExp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/DesignExp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/CircleLinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/DebugCircleLinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/DebugDuLinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/DebugLinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/DebugLinkList2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/DebugSqList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/DuLNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/DuLinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/Example2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/Example2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/Example2_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/Example2_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/Example2_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/IList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/LinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/LinkList2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/Polyn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/PolynList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/PolynNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/SX1_SqList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/SqList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/StudentManagSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/ch02/StudentNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w2Exp1/实验一实验报告.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3Exp1/ApplicationExp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3Exp1/ApplicationExp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3Exp1/ConfirmExp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3Exp1/DesignExp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3Exp1/DesignExp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w3Exp1/实验二实验报告.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w4Exp1/ApplictaionExp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w4Exp1/ConfirmExp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w4Exp1/DesignExp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w4Exp1/实验三实验报告.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/w4Exp1/ApplictaionExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w4Exp1/ApplicationExp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/w4Exp1/DesignExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/w4Exp1/DesignExp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/w4Exp1/实验三实验报告.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/w4Exp1/实验三实验报告.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,7 +152,9 @@
       <workItem from="1710752333091" duration="3828000" />
       <workItem from="1710772671930" duration="7986000" />
       <workItem from="1710836233922" duration="5463000" />
-      <workItem from="1710847212239" duration="6885000" />
+      <workItem from="1710847212239" duration="13782000" />
+      <workItem from="1711002418834" duration="9385000" />
+      <workItem from="1711040428189" duration="3297000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -327,7 +236,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710120333556</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="3/11 实验一顺序表">
+      <option name="closed" value="true" />
+      <created>1710864226373</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710864226373</updated>
+    </task>
+    <task id="LOCAL-00012" summary="3/11 实验一顺序表">
+      <option name="closed" value="true" />
+      <created>1710864257579</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1710864257579</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -367,18 +292,9 @@
         <PinnedItemInfo parentTag="w3Exp1.ch02.Node" memberName="next" />
         <PinnedItemInfo parentTag="w3Exp1.ch02.DuLNode" memberName="prior" />
         <PinnedItemInfo parentTag="w4Exp1.StackElem" memberName="n" />
-        <PinnedItemInfo parentTag="ch03.LinkStack" memberName="top" />
         <PinnedItemInfo parentTag="w3Exp1.ch02.DuLNode" memberName="next" />
-        <PinnedItemInfo parentTag="ch02.Node" memberName="next" />
       </pinned-members>
     </pin-to-top-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="Lstack" />
-        <watch expression="temp" />
-        <watch expression="temp" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
