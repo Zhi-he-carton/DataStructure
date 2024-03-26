@@ -1,7 +1,7 @@
 package ch03;
 
 /**
- * 
+ *
  * 循环顺序队列类(采用设置一个计数器的方法来区分循环队列的判空和判满)
  * 
  */
@@ -82,4 +82,5 @@ public class CircleSqQueue2 implements IQueue {
 			System.out.println("此队列为空");
 		}
 	}
+
 }
