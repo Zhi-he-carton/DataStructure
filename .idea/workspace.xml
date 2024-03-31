@@ -5,104 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddf481a6-8b13-4a6c-90ba-f6200b5bffc9" name="Changes" comment="3/11 实验一顺序表">
+      <change afterPath="$PROJECT_DIR$/src/w4c1/KMP.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/w5Exp1/ApplicationExp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/w5Exp1/ConfirmExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/w5Exp1/实验三实验报告.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch02/CircleLinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch02/CircleLinkList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch02/DebugCircleLinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch02/DebugCircleLinkList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch02/DebugDuLinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch02/DebugDuLinkList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch02/DebugLinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch02/DebugLinkList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch02/DebugLinkList2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch02/DebugLinkList2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch02/DebugSqList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch02/DebugSqList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch02/DuLNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch02/DuLNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch02/DuLinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch02/DuLinkList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch02/Example2_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch02/Example2_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch02/Example2_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch02/Example2_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch02/Example2_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch02/Example2_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch02/Example2_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch02/Example2_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch02/Example2_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch02/Example2_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch02/IList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch02/IList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch02/LinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch02/LinkList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch02/LinkList2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch02/LinkList2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch02/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch02/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch02/Polyn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch02/Polyn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch02/PolynList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch02/PolynList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch02/PolynNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch02/PolynNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch02/SX1_SqList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch02/SX1_SqList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch02/SqList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch02/SqList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch02/StudentManagSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch02/StudentManagSystem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch02/StudentNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch02/StudentNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch03/CircleSqQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch03/CircleSqQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch03/CircleSqQueue2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch03/CircleSqQueue2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch03/CircleSqQueue3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch03/CircleSqQueue3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch03/DebugCircleSqQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch03/DebugCircleSqQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch03/DebugCircleSqQueue2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch03/DebugCircleSqQueue2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch03/DebugLinkQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch03/DebugLinkQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch03/DebugLinkQueue2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch03/DebugLinkQueue2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch03/DebugLinkStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch03/DebugLinkStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch03/DebugSqStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch03/DebugSqStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch03/Example3_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch03/Example3_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch03/Example3_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch03/Example3_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch03/Example3_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch03/Example3_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch03/Example3_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch03/Example3_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch03/Example3_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch03/Example3_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch03/Example3_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch03/Example3_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch03/Example3_8$CarInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch03/Example3_8$CarInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch03/Example3_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch03/Example3_8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch03/IQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch03/IQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch03/IStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch03/IStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch03/LinkQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch03/LinkQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch03/LinkQueue2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch03/LinkQueue2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch03/LinkStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch03/LinkStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch03/PriorityQData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch03/PriorityQData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch03/PriorityQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch03/PriorityQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/ch03/SqStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/ch03/SqStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/step1/MyLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/step1/MyLinkedList$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/step1/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/step1/MyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w1c2/lsr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w1c2/lsr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w1c2/lsr2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w1c2/lsr2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ConfirmExp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ConfirmExp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/DesignExp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/DesignExp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/StudentAddress.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/StudentAddress.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/CircleLinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/CircleLinkList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/DebugCircleLinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/DebugCircleLinkList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/DebugDuLinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/DebugDuLinkList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/DebugLinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/DebugLinkList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/DebugLinkList2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/DebugLinkList2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/DebugSqList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/DebugSqList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/DuLNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/DuLNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/DuLinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/DuLinkList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/Example2_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/Example2_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/Example2_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/Example2_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/Example2_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/Example2_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/Example2_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/Example2_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/Example2_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/Example2_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/IList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/IList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/LinkList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/LinkList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/LinkList2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/LinkList2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/Polyn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/Polyn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/PolynList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/PolynList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/PolynNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/PolynNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/SX1_SqList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/SX1_SqList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/SqList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/SqList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/StudentManagSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/StudentManagSystem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/StudentNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/ch02/StudentNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w2Exp1/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w3Exp1/ApplicationExp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w3Exp1/ApplicationExp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w3Exp1/ApplicationExp2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w3Exp1/ApplicationExp2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w3Exp1/ConfirmExp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w3Exp1/ConfirmExp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w3Exp1/DesignExp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w3Exp1/DesignExp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w3Exp1/DesignExp2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w3Exp1/DesignExp2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w4Exp1/ApplicationExp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w4Exp1/ApplicationExp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w4Exp1/ConfirmExp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w4Exp1/ConfirmExp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w4Exp1/DesignExp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w4Exp1/DesignExp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w4Exp1/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w4Exp1/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w4Exp1/StackElem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w4Exp1/StackElem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructure/w4Exp1/实验三实验报告.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructure/w4Exp1/实验三实验报告.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch03/CircleSqQueue2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch03/CircleSqQueue2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +70,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Zhi_he_carton/iCloudDrive/Documents/Object-going/DataStructure/src/w4Exp1",
+    "last_opened_file_path": "C:/Users/Zhi_he_carton/iCloudDrive/Documents/Object-going/DataStructure/src/w5Exp1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -178,6 +85,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Zhi_he_carton\iCloudDrive\Documents\Object-going\DataStructure\src\w5Exp1" />
       <recent name="C:\Users\Zhi_he_carton\iCloudDrive\Documents\Object-going\DataStructure\src\w4Exp1" />
       <recent name="C:\Users\Zhi_he_carton\iCloudDrive\Documents\Object-going\DataStructure\src\w3Exp1" />
       <recent name="C:\Users\Zhi_he_carton\iCloudDrive\Documents\Object-going\DataStructure\src\w2Exp1" />
@@ -251,7 +159,9 @@
       <workItem from="1711040428189" duration="3953000" />
       <workItem from="1711364670209" duration="611000" />
       <workItem from="1711379345097" duration="1208000" />
-      <workItem from="1711441156862" duration="11524000" />
+      <workItem from="1711441156862" duration="25279000" />
+      <workItem from="1711633536023" duration="7760000" />
+      <workItem from="1711886628045" duration="7564000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -365,7 +275,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711044894382</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="3/11 实验一顺序表">
+      <option name="closed" value="true" />
+      <created>1711469331286</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1711469331286</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -396,6 +314,11 @@
           <properties class="java.lang.NegativeArraySizeException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/w5Exp1/ApplicationExp.java</url>
+          <line>127</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>
